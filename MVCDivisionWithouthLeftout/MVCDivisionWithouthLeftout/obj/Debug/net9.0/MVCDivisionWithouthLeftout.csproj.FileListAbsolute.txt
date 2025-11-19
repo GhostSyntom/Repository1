@@ -1,0 +1,15 @@
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\bin\Debug\net9.0\MVCDivisionWithouthLeftout.exe
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\bin\Debug\net9.0\MVCDivisionWithouthLeftout.deps.json
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\bin\Debug\net9.0\MVCDivisionWithouthLeftout.runtimeconfig.json
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\bin\Debug\net9.0\MVCDivisionWithouthLeftout.dll
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\bin\Debug\net9.0\MVCDivisionWithouthLeftout.pdb
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.AssemblyInfoInputs.cache
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.AssemblyInfo.cs
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.csproj.CoreCompileInputs.cache
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.sourcelink.json
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.dll
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\refint\MVCDivisionWithouthLeftout.dll
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.pdb
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\MVCDivisionWithouthLeftout.genruntimeconfig.cache
+C:\Users\Student\Repository1\MVCDivisionWithouthLeftout\MVCDivisionWithouthLeftout\obj\Debug\net9.0\ref\MVCDivisionWithouthLeftout.dll
